@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamzoneraanjum" target="blank"><img src="https://img.shields.io/twitter/follow/iamzoneraanjum?logo=twitter&style=for-the-badge" alt="iamzoneraanjum" /></a> </p>
 
-- 🔭 I’m currently working on **LLMs**
+- 🔭 Currently exploring and working on **LLMs**
 
-- 📫 How to reach me **iamzoneraanjum@gmail.com**
+- 📫 Reach out to me at **iamzoneraanjum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
