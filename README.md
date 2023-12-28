@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LLMs**
 
-- 📫 How to reach me **iamzoneraanjum@gmai.com**
+- 📫 How to reach me **iamzoneraanjum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
